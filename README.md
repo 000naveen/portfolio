@@ -1,1 +1,1 @@
-000naveen.github.io/portfolio/
+https://000naveen.github.io/portfolio/
